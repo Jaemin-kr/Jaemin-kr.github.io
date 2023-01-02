@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TIL Challenge - 1st week 정리"
-date:   2015-04-18T14:25:52-05:00
+date:   2022-12-31T14:25:52-05:00
 author: Jaemin Ko
 categories: Dummy
 ---
